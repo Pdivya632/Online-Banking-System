@@ -15,7 +15,7 @@ The application provides a distributed, browser-specific platform for banking us
 
 ---
 
-##  Tech Stack & Requirements
+## 🛠️ Tech Stack & Requirements
 
 * **IDE:** MyEclipse
 * **Database:** MySQL Workbench (v8.0 CE) with standard table spaces and index optimization
@@ -32,6 +32,9 @@ The application provides a distributed, browser-specific platform for banking us
 ├── src/               # Java backend logic, servlets, and database configurations
 ├── WebContent/        # Front-end resources (JSP pages, HTML, and assets)
 └── README.md          # Project documentation
+```
+
+---
 
 ##  Configuration Notes
 
